@@ -1,0 +1,2519 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="label_cc1" value="Mod:width" />
+	<opcode name="set_hdcc1" value="0.5" />
+</control>
+<master>
+	<opcode name="volume" value="2.5" />
+	<opcode name="width_oncc1" value="100" />
+	<opcode name="width_curvecc1" value="99" />
+	<opcode name="loop_mode" value="one_shot" />
+</master>
+<group>
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="40" />
+	<opcode name="ampeg_release" value="100.000000" />
+</group>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_1-1.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_1-2.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_1.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_1-1.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_1-2.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_1-3.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_1.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_1-1.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_1-2.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_1.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_1-1.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_1-2.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_1.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_1-1.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_1-2.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_1.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_1-1.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_1-2.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_1.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_1-1.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_1-2.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_1.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_1-1.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_1-2.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_1.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_1-1.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_1-2.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_1.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_1-1.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_1-2.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_1.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_1-1.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_1-2.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_1.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_1-1.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_1-2.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_1.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_1-2.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_1-3.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_1.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_1-1.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_1.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_1-1.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_1-2.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_1.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_1-1.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_1-2.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_1-3.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_1.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_1-1.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_1-2.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_1-3.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_1.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_1-1.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_1-2.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_1.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_1-1.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_1-2.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_1.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_1-1.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_1-2.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_1.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_1-1.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_1-2.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_1.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_1-1.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_1-2.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_1-3.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_1.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_1-1.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_1-2.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_1.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_1-1.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_1-2.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_1.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<group>
+	<opcode name="lovel" value="41" />
+	<opcode name="hivel" value="64" />
+	<opcode name="ampeg_release" value="100.000000" />
+</group>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_2-1.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_2-2.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_2.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_2-1.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_2-2.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_2.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_2-1.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_2-2.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_2.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_2-1.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_2-2.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_2.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_2-1.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_2-2.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_2.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_2-1.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_2-2.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_2-3.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_2-1.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_2-2.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_2-3.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_2.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_2-1.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_2-2.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_2-3.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_2.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_2-1.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_2-2.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_2-3.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_2.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_2-1.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_2-2.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_2.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_2-1.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_2-2.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_2.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_2-1.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_2-3.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_2-4.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_2-1.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_2-2.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_2.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_2-1.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_2-2.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_2-3.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_2.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_2-1.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_2-2.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_2.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_2-1.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_2.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_2-1.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_2-2.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_2-3.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_2-4.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_2-1.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_2-2.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_2.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_2-1.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_2-2.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_2.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_2-1.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_2-2.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_2.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_2-1.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_2-2.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_2.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_2-1.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_2-2.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_2.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_2-1.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_2-2.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_2.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_2-1.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_2-2.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_2-3.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_2.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<group>
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="88" />
+	<opcode name="ampeg_release" value="100.000000" />
+</group>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_3-1.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_3-2.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_3-3.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_3.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_3-1.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_3-2.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_3-3.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_3.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_3-1.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_3-2.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_3-3.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_3.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_3-1.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_3-2.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_3-3.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_3.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_3-1.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_3-2.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_3-3.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_3.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3-1.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.166666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3-2.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.166666666667" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3-4.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3-5.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3-6.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="0.833333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.833333333333" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_3-1.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_3-2.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_3.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_3-1.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_3-2.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_3.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_3-1.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_3-2.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_3.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_3-1.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_3-2.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_3-3.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_3.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_3-1.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_3-2.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_3-3.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_3.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_3-1.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_3-2.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_3-3.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_3.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_3-1.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_3-2.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_3.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_3-1.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_3-2.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_3.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_3-1.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_3-2.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_3.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_3-1.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_3-2.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_3.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_3-1.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_3-2.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_3.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_3-1.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_3-2.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_3-3.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_3.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_3-1.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_3-2.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_3.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_3-1.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_3-2.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_3.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_3-1.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_3.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_3-1.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_3-2.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_3.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_3.ogg" />
+	<opcode name="key" value="Bb5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_3-1.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_3-2.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_3.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<group>
+	<opcode name="lovel" value="89" />
+	<opcode name="hivel" value="112" />
+	<opcode name="ampeg_release" value="100.000000" />
+</group>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_3a-1.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_3a-2.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_060__C4_3a.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_3a-1.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_3a-2.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_3a-3.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_061_Db4_3a.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_3a-1.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_3a-2.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_062__D4_3a.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_3a-1.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_3a-2.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_063_Eb4_3a.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_3a-1.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_3a-2.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_064__E4_3a.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3a-1.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3a-2.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3a-3.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_065__F4_3a.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_3a-1.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_3a-2.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_3a-3.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_066_Gb4_3a.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_3a-1.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_3a-2.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_067__G4_3a.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_3a-1.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_3a-2.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_068_Ab4_3a.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_3a-1.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_3a-2.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_3a-3.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_069__A4_3a.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_3a-1.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_3a-2.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_3a-3.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_070_Bb4_3a.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_3a-1.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_3a-2.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_3a-3.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="jsdb_071__B4_3a.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_3-1.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_3-2.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_3.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_3-1.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_3-2.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_3.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_3-1.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_3-2.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_3.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_3-1.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_3-2.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_3.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_3-1.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_3-2.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_3.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_3-1.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_3-2.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_3-3.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_3.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_3-1.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_3-2.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_3.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_3-1.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_3-2.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_3.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_3-1.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_3.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_3-1.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_3-2.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_3.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_3.ogg" />
+	<opcode name="key" value="Bb5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_3-1.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_3-2.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_3.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<group>
+	<opcode name="lovel" value="113" />
+	<opcode name="hivel" value="127" />
+	<opcode name="ampeg_release" value="100.000000" />
+</group>
+<region>
+	<opcode name="sample" value="SteelDrum_060__C4_4-1.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_060__C4_4-2.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_060__C4_4-3.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_060__C4_4.ogg" />
+	<opcode name="lokey" value="Gb3" />
+	<opcode name="hikey" value="C4" />
+	<opcode name="pitch_keycenter" value="C4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_061_Db4_4-1.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_061_Db4_4-2.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_061_Db4_4.ogg" />
+	<opcode name="key" value="Db4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_062__D4_4-1.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_062__D4_4-2.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_062__D4_4-3.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_062__D4_4.ogg" />
+	<opcode name="key" value="D4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_063_Eb4_4-1.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_063_Eb4_4-2.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_063_Eb4_4-3.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_063_Eb4_4.ogg" />
+	<opcode name="key" value="Eb4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_064__E4_4-1.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_064__E4_4-2.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_064__E4_4-3.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_064__E4_4.ogg" />
+	<opcode name="key" value="E4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_065__F4_4-1.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.2" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_065__F4_4-2.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_065__F4_4-3.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.6" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_065__F4_4-4.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.8" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_065__F4_4.ogg" />
+	<opcode name="key" value="F4" />
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_066_Gb4_4-1.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_066_Gb4_4-2.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_066_Gb4_4.ogg" />
+	<opcode name="key" value="Gb4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_067__G4_4-1.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_067__G4_4-2.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_067__G4_4-3.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_067__G4_4.ogg" />
+	<opcode name="key" value="G4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_068_Ab4_4-1.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_068_Ab4_4-2.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_068_Ab4_4-3.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_068_Ab4_4.ogg" />
+	<opcode name="key" value="Ab4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_069__A4_4-1.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_069__A4_4-2.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_069__A4_4-3.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_069__A4_4.ogg" />
+	<opcode name="key" value="A4" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_070_Bb4_4-1.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_070_Bb4_4-2.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_070_Bb4_4.ogg" />
+	<opcode name="key" value="Bb4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_071__B4_4-1.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_071__B4_4-2.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_071__B4_4.ogg" />
+	<opcode name="key" value="B4" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_4-2.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_4-3.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_4-4.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_072__C5_4.ogg" />
+	<opcode name="key" value="C5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_4-1.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_4-2.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_4-3.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_073_Db5_4.ogg" />
+	<opcode name="key" value="Db5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_4-1.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_4-2.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_4-3.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_074__D5_4.ogg" />
+	<opcode name="key" value="D5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_4-1.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_4-2.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_4-3.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_075_Eb5_4.ogg" />
+	<opcode name="key" value="Eb5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_4-1.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_4-2.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_076__E5_4.ogg" />
+	<opcode name="key" value="E5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_4-1.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_4-2.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_4-3.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_077__F5_4.ogg" />
+	<opcode name="key" value="F5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_4-1.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_4-2.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_4-3.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_078_Gb5_4.ogg" />
+	<opcode name="key" value="Gb5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_4-1.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.2" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_4-2.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_4-3.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.6" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_4-4.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.8" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_079__G5_4.ogg" />
+	<opcode name="key" value="G5" />
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_4-1.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_4-2.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_080_Ab5_4.ogg" />
+	<opcode name="key" value="Ab5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_4-1.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_4-2.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_081__A5_4.ogg" />
+	<opcode name="key" value="A5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_4-1.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.166666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_4-2.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.166666666667" />
+	<opcode name="hirand" value="0.333333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_4-3.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.333333333333" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_4-4.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.666666666667" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_4-5.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.666666666667" />
+	<opcode name="hirand" value="0.833333333333" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_082_Bb5_4.ogg" />
+	<opcode name="key" value="Bb5" />
+	<opcode name="lorand" value="0.833333333333" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_4-1.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_4-2.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_4-3.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="SteelDrum_083__B5_4.ogg" />
+	<opcode name="lokey" value="B5" />
+	<opcode name="hikey" value="F6" />
+	<opcode name="pitch_keycenter" value="B5" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1.0" />
+</region>
+<curve>
+	<opcode name="curve_index" value="99" />
+	<opcode name="v000" value="-1" />
+	<opcode name="v060" value="0" />
+	<opcode name="v068" value="0" />
+	<opcode name="v127" value="2" />
+</curve>
